@@ -1,0 +1,7 @@
+Job Title: Machine Learning Engineer
+
+We are looking for a Machine Learning Engineer with strong skills in Python,
+XGBoost, and deep learning frameworks such as LSTM and GRU. The candidate
+should have experience in data preprocessing, feature engineering, and
+model evaluation. Familiarity with SQL and cloud platforms is a plus.
+Strong understanding of machine learning fundamentals is required.

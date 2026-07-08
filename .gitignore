@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Uploaded resumes (personal data - don't upload to GitHub)
+data/*.pdf
+
+# Extracted resume text (auto-generated, no need to track)
+output/*.txt
+
+# OS junk files
+.DS_Store
+Thumbs.db
